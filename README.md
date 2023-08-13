@@ -28,7 +28,7 @@ The OpenEdge Demo project is a user-friendly way to create and manage Instance G
 Clone the repository to your local machine:
 
 \`\`\`bash
-git clone https://github.com/your_username/OpenEdge-Demo.git
+git clone https://github.com/ronbc78/OpenEdge-Demo.git
 cd OpenEdge-Demo
 \`\`\`
 
